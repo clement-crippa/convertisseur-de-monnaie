@@ -1,0 +1,1 @@
+Attention l'API permet de faire seulement 1000 actualisations par mois
